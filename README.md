@@ -26,7 +26,7 @@ Soil profile optimisation tool for DSSAT crop growth models.
 │           ├── ...
 │           └── SPO_v1.exe	
 
-After executing "SPO_v1.exe" a working directory "Soil_Profiling_Workspace" is created where optimization is conducted and optimization output files saved:
+After executing "SPO_v1.exe" a working directory "Soil_Profiling_Workspace" is created in "Tools" directory where optimization is conducted and optimization output files saved:
 
 ├── C:/DSSAT48
 │   ├── Genotype
