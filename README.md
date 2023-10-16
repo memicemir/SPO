@@ -45,3 +45,12 @@ After executing "SPO_v1.exe" a working directory "Soil_Profiling_Workspace" is c
 │          ├── SoilWat.OUT	
 │          └── PlantGro.OUT
 </pre>
+
+SPO related publications:
+1. Generic optimization approach of soil hydraulic parameters for site-specific model applications.
+    Authors: Jonas Trenz, Emir Memic, William D. Batchelor, Simone Graeff-Honninger (under revision at Precision Agriculture Journal - Springer)
+    This publication is very IMPORTANT and should be read before using SPO.
+   
+3. Evaluation of crop model-based marginal net return maximising nitrogen application rates on site-specific level in maize
+    Authors: Emir Memic, Jonas Trenz, Sara Heshmati, Simone Graeff-Honninger (conference contribution to ECPA23 Bologna, Itally, 2023)
+    DOI 10.3920/978-90-8686-947-3_98
