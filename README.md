@@ -1,4 +1,6 @@
 # soil_profiling_for_DSSAT
+IMPORTANT: The publication Trenz et al. 2023 was submitted and accpted. It will be soon available online.
+
 Soil profile optimisation tool for DSSAT crop growth models.
 
 1. The "SPO_v2.7z" file from "SPO_windows_runnable" has to be unzipped (with 7-zip). 
