@@ -3,7 +3,7 @@ Soil profile optimisation tool for DSSAT crop growth models.
 
 1. The "SPO_v2.7z" file from "SPO_windows_runnable" has to be unzipped (with 7-zip). 
 
-2. Unzipped "SPO_v2" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools".
+2. Unzipped "SPO_v2" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools". 
 
 3. In folder "SPO_v2" ("C:\DSSAT48\Tools\SPO_v2")  ->SPO_v2.exe<- executed as Administrator.
 
