@@ -1,7 +1,7 @@
 # soil_profiling_for_DSSAT
 IMPORTANT: Publication list at the end of this Readme file.
 
-Soil profile optimisation tool for DSSAT crop growth models.
+Soil profile optimisation tool for DSSAT crop growth models (Tested with DSSAT v 4.8.5).
 
 1. The "SPO.zip" file has to be unzipped. 
 
