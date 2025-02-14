@@ -1,15 +1,15 @@
 # soil_profiling_for_DSSAT
-IMPORTANT: The publication Trenz et al. 2023 was submitted and accpted. It will be soon available online.
+IMPORTANT: Publication list at the end of this Readme file.
 
 Soil profile optimisation tool for DSSAT crop growth models.
 
-1. The "SPO_v2.7z" file from "SPO_windows_runnable" has to be unzipped (with 7-zip). 
+1. The "SPO.zip" file has to be unzipped. 
 
-2. Unzipped "SPO_v2" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools". 
+2. Unzipped "SPO" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools". 
 
-3. In folder "SPO_v2" ("C:\DSSAT48\Tools\SPO_v2")  ->SPO_v2.exe<- executed as Administrator.
+3. In folder "SPO" ("C:\DSSAT48\Tools\SPO") "SPO_v3.0.exe" executed as Administrator.
 
-4. More detailed instructions can be found in user guidelines!
+4. More detailed instructions can be found in user guidelines v 3.0. This user guideline is not completely finished yet, more details are available in user guidelines v 2.0.
 
 
 <pre>
@@ -49,10 +49,10 @@ After executing "SPO_v2.exe" a working directory "Soil_Profiling_Workspace" is c
 </pre>
 
 SPO related publications:
-1. Generic optimization approach of soil hydraulic parameters for site-specific model applications.
-    Authors: Jonas Trenz, Emir Memic, William D. Batchelor, Simone Graeff-Honninger (under revision at Precision Agriculture Journal - Springer)
-    This publication is very IMPORTANT and should be read before using SPO.
+1. Generic optimization approach of soil hydraulic parameters for site-specific model applications
+    Authors: Jonas Trenz, Emir Memic, William D. Batchlor, Simone Graeff-Hönninger
+    Precision Agriculture Journal - Springer 2023 (DOI: 10.1007/s11119-023-10087-9)
    
-3. Evaluation of crop model-based marginal net return maximising nitrogen application rates on site-specific level in maize
-    Authors: Emir Memic, Jonas Trenz, Sara Heshmati, Simone Graeff-Honninger (conference contribution to ECPA23 Bologna, Itally, 2023)
-    DOI 10.3920/978-90-8686-947-3_98
+3. Evaluation of crop model-based marginal net return maximizing nitrogen application rates on site-specific level in maize
+    Authors: Memic E., Trenz J., Heshmati S., Graeff H.
+    Precision Agriculture Journal – Springer 2024 (DOI: 10.1007/s11119-024-10126-z)
