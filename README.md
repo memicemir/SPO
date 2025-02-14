@@ -24,9 +24,9 @@ Soil profile optimisation tool for DSSAT crop growth models (Tested with DSSAT v
 │       ├── GBuild
 │       ├── XBuild
 │       ├── ...
-│       └── SPO_v2
+│       └── SPO
 │           ├── ...
-│           └── SPO_v2.exe	
+│           └── SPO_v3.0.exe	
 
 After executing "SPO_v2.exe" a working directory "Soil_Profiling_Workspace" is created in "Tools" directory where optimization is conducted and optimization output files saved:
 
