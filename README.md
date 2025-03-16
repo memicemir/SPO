@@ -7,9 +7,12 @@ Soil profile optimisation tool for DSSAT crop growth models (Tested with DSSAT v
 
 2. Unzipped "SPO" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools". 
 
-3. In folder "SPO" ("C:\DSSAT48\Tools\SPO") "SPO_v3.0.exe" executed as Administrator.
+3. In folder "SPO" ("C:\DSSAT48\Tools\SPO") "SPO_v3.1.exe" executed as Administrator.
 
 4. More detailed instructions can be found in user guidelines v 3.0. This user guideline is not completely finished yet, more details are available in user guidelines v 2.0.
+
+Error minimization method "nRMSE" is default and extensively tested. The d-stat. and EF will work with time-series data, but are not extensively tested.
+For official publication always consult GBuild statistics!
 
 
 <pre>
@@ -26,9 +29,9 @@ Soil profile optimisation tool for DSSAT crop growth models (Tested with DSSAT v
 │       ├── ...
 │       └── SPO
 │           ├── ...
-│           └── SPO_v3.0.exe	
+│           └── SPO_v3.1.exe	
 
-After executing "SPO_v2.exe" a working directory "Soil_Profiling_Workspace" is created in "Tools" directory where optimization is conducted and optimization output files saved:
+After executing "SPO_v3.1.exe" a working directory "Soil_Profiling_Workspace" is created in "Tools" directory where optimization is conducted and optimization output files saved:
 
 ├── C:/DSSAT48
 │   ├── Genotype
